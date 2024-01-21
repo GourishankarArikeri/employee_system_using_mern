@@ -1,0 +1,35 @@
+.footer {
+  background-color: darkblue;
+  color: white;
+  padding: 10px;
+}
+.footer #footer-heading {
+  text-align: center;
+}
+
+.footer .content {
+  display: flex;
+  justify-content: space-around;
+}
+/* .footer #SocialIcon{
+    display:flex;
+    padding:3px;
+    margin:3px;
+} */
+.icons #SocialIcon {
+  /* display: flex; */
+  margin: 3px;
+  padding: 3px;
+  justify-content: space-around;
+}
+
+.footer .content .subscribe button {
+  display: block;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+  padding: 4px;
+  margin-top: 5px;
+  margin-right: auto;
+  margin-top: left;
+}

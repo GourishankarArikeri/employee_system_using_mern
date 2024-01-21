@@ -1,0 +1,36 @@
+.addemployee {
+  text-align: center;
+  background: linear-gradient(
+    rgba(92, 123, 242, 1),
+    rgba(45, 253, 156, 1),
+    rgba(242, 92, 135, 1)
+  );
+  height: 80vh;
+}
+.grid-container {
+  width: 80%;
+  height: 500px;
+  background-color: aquamarine;
+  border-radius: 10px;
+  padding:5px;
+}
+/* .grid-row {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  position:relative;
+} */
+
+.grid-row img {
+  height: 20rem;
+  border-radius: 10px;
+  margin-top: 55px;
+}
+.grid-row #sub-btn{
+  padding:5px;
+  margin-top:12px;
+  background-color:rgba(169, 68, 68, 0.712);
+  border:none;
+  border-radius:10px;
+
+}

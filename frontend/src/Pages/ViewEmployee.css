@@ -1,0 +1,22 @@
+thead,th,tr,td{
+    border:1px solid black;
+    text-align:center;
+
+}
+
+table{
+    width:100%;
+    background-color: antiquewhite;
+    border:2px solid black;
+
+}
+
+#delete{
+    background-color: rgba(255, 0, 0, 0.678);
+   margin:5px
+
+}
+#edit{
+    width:150px;
+    background-color: rgba(22, 199, 22, 0.644);
+}
